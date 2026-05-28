@@ -95,11 +95,6 @@ Ball-by-ball neural network that dynamically updates IPL match predictions, acco
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sreyaan03&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
